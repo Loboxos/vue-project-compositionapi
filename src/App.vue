@@ -142,6 +142,11 @@ const increment = () => {
 
 <h2>{{ counter2 }}</h2>
     <button @click="increment">Click incremet</button>
+
+
+
+
+
 </template> 
 
 <style>
